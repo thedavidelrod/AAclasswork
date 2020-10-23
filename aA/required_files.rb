@@ -1,0 +1,10 @@
+require_relative "question_follows.rb"
+require_relative "question_likes.rb"
+require_relative "questions.rb"
+require_relative "questionsdatabse.rb"
+require_relative "replies.rb"
+require "sqlite3"
+require "singleton"
+require "byebug"
+
+# require_relative "required_files"
